@@ -1,5 +1,21 @@
 title: Biostatistics for Health Professionals - Beginner
-description: Course description goes here.
+description: >
+  Course Description
+
+  An introduction to biostatistics as used in health research. Emphasis on the
+  application and interpretation of statistics in the context of health
+  services, health education, and nutrition studies.
+
+  Course Specifics
+
+  This course will provide a survey of concepts and techniques of hypothesis
+  testing, research designs, and statistical analyses used in health science
+  research. Emphasis is placed on conceptual configurations over computations,
+  incorporating the science of data collection, organization, descriptive and
+  statistical analysis, interpretation, and presentation of information. An
+  overview of health services research will be integrated throughout the course.
+  The R statistical software will used to review and conduct essential
+  statistical procedures. Students will be equipped with a thorough grounding in
+  health-related research methods and practices.
 programming_language: r
-from: "r-base-prod:v1.0.2"
-#from: "tidyverse-base-prod:v1.0.2"
+from: 'r-base-prod:v1.0.2'
