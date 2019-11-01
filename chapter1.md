@@ -1,6 +1,6 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: Introduction
+description: "1. Understand the objectives of biostatistics and Health Services Research\n2. Explore data types, distributions, and the basic ways of displaying data"
 ---
 
 ## Example coding exercise
